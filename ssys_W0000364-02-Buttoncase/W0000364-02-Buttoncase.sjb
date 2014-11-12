@@ -1,0 +1,6 @@
+# Product version 10.1
+# Build version 4582
+setVersionVar currentJobCore "W0000364-02-Buttoncase";
+setVersionVar stlDirectory "Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/W0000364 fMRI housing";
+setVersionVar stlPath "Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/W0000364 fMRI housing/W0000364-02-Buttoncase.STL";
+setVersionVar toolpathFile "W0000364-02-Buttoncase.cmb";

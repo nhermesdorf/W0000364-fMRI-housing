@@ -1,0 +1,133 @@
+session {11/12 12:50:12pm > Norbert opened job C:/ProgramData/Stratasys/FDMControlCenter/10.1/jobs/Norbert/Default.sjb.  Insight 10.1 (4582).}
+msg {12:50:13pm > Read 21844 facets in 0:00 from "Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/W0000364 fMRI housing/W0000364-01-Boardcase.STL"}
+msg {12:50:13pm > STL comment: solid W0000364-01-Boardcase}
+msg {12:50:13pm > Bounding box of this STL X, Y, Z:}
+msg {12:50:13pm >       min = (0.0000, 0.0000, 0.0000)}
+msg {12:50:13pm >       max = (258.3000, 26.0000, 205.0000)}
+msg {12:50:13pm > Done loading STL file after 1 sec.}
+msg {12:50:42pm > 	Slice height:	0.1778}
+msg {12:50:44pm > Done slicing after 2 sec.}
+msg {12:50:50pm > 	Part fill style:	One contour /  rasters}
+msg {12:50:50pm > 	Part interior style:	Solid - normal}
+msg {12:50:50pm > 	Contour width:	0.3556}
+msg {12:50:50pm > 	Part raster width:	0.3556}
+msg {12:50:53pm > Done generating toolpaths after 3 sec.}
+msg {12:52:54pm > Range top at 0.178, bottom at 0.178}
+msg {12:53:16pm > Range top at 4.089, bottom at 0.178}
+msg {12:53:26pm > Range top at 4.089, bottom at 0.178}
+msg {12:54:08pm > Total of 20 curves selected, 20 new.}
+msg {12:54:10pm > Total of 42 curves selected, 22 new.}
+msg {12:54:13pm > Total of 88 curves selected, 46 new.}
+msg {12:54:14pm > Total of 134 curves selected, 46 new.}
+msg {12:54:16pm > Total of 180 curves selected, 46 new.}
+msg {12:54:18pm > Total of 226 curves selected, 46 new.}
+msg {12:54:19pm > Total of 272 curves selected, 46 new.}
+msg {12:54:20pm > Total of 318 curves selected, 46 new.}
+msg {12:54:21pm > Total of 364 curves selected, 46 new.}
+msg {12:54:23pm > Total of 410 curves selected, 46 new.}
+msg {12:54:24pm > Total of 456 curves selected, 46 new.}
+msg {12:54:36pm > 	Part fill style:	One contour /  rasters}
+msg {12:54:36pm > 	Part interior style:	Solid - normal}
+msg {12:54:36pm > 	Contour width:	0.3556}
+msg {12:54:36pm > 	Part raster width:	0.3556}
+msg {12:54:38pm > Done generating toolpaths after 2 sec.}
+msg {12:58:11pm > Range top at 6.223, bottom at 6.223}
+msg {12:58:32pm > Range top at 8.001, bottom at 6.223}
+msg {12:58:35pm > Range top at 8.001, bottom at 6.223}
+msg {12:58:57pm > Total of 37 curves selected, 37 new.}
+msg {12:59:00pm > Total of 47 curves selected, 10 new.}
+msg {12:59:07pm > Total of 57 curves selected, 10 new.}
+msg {12:59:11pm > Total of 87 curves selected, 30 new.}
+msg {12:59:14pm > Total of 109 curves selected, 22 new.}
+msg {12:59:15pm > Total of 131 curves selected, 22 new.}
+msg {12:59:16pm > Total of 151 curves selected, 20 new.}
+msg {12:59:19pm > Total of 161 curves selected, 10 new.}
+msg {12:59:21pm > Total of 173 curves selected, 12 new.}
+msg {12:59:51pm > 	Part fill style:	One contour /  rasters}
+msg {12:59:51pm > 	Part interior style:	Solid - normal}
+msg {12:59:51pm > 	Contour width:	0.3556}
+msg {12:59:51pm > 	Part raster width:	0.3556}
+msg {12:59:53pm > Done generating toolpaths after 2 sec.}
+msg {1:01:03pm > Range top at 8.001, bottom at 6.223}
+msg {1:01:14pm > Total of 22 curves selected, 22 new.}
+msg {1:01:15pm > Total of 44 curves selected, 22 new.}
+msg {1:01:22pm > Total of 72 curves selected, 28 new.}
+msg {1:01:34pm > Total of 108 curves selected, 36 new.}
+msg {1:01:44pm > Total of 123 curves selected, 15 new.}
+msg {1:01:48pm > Total of 133 curves selected, 10 new.}
+msg {1:01:56pm > Total of 153 curves selected, 20 new.}
+msg {1:01:59pm > Total of 163 curves selected, 10 new.}
+msg {1:02:16pm > Total of 165 curves selected, 2 new.}
+msg {1:02:48pm > Total of 28 curves selected, 28 new.}
+msg {1:02:52pm > Total of 50 curves selected, 22 new.}
+msg {1:02:59pm > Total of 72 curves selected, 22 new.}
+msg {1:03:08pm > Total of 93 curves selected, 21 new.}
+msg {1:03:16pm > Total of 95 curves selected, 2 new.}
+msg {1:03:22pm > Total of 121 curves selected, 26 new.}
+msg {1:03:26pm > Total of 131 curves selected, 10 new.}
+msg {1:03:29pm > Total of 143 curves selected, 12 new.}
+msg {1:03:37pm > Total of 163 curves selected, 20 new.}
+msg {1:04:18pm > 	Part fill style:	One contour /  rasters}
+msg {1:04:18pm > 	Part interior style:	Solid - normal}
+msg {1:04:18pm > 	Contour width:	0.3556}
+msg {1:04:18pm > 	Part raster width:	0.3556}
+msg {1:04:20pm > Done generating toolpaths after 2 sec.}
+msg {1:08:16pm > Range top at 8.001, bottom at 0.178}
+msg {1:08:29pm > Range top at 4.089, bottom at 0.178}
+msg {1:08:30pm > Range top at 4.089, bottom at 0.178}
+msg {1:08:43pm > Total of 46 curves selected, 46 new.}
+msg {1:08:46pm > Total of 184 curves selected, 138 new.}
+msg {1:08:49pm > Total of 276 curves selected, 92 new.}
+msg {1:08:51pm > Total of 368 curves selected, 92 new.}
+msg {1:08:52pm > Total of 460 curves selected, 92 new.}
+msg {1:09:00pm > 	Part fill style:	One contour /  rasters}
+msg {1:09:00pm > 	Part interior style:	Solid - normal}
+msg {1:09:00pm > 	Contour width:	0.3556}
+msg {1:09:00pm > 	Part raster width:	0.3556}
+msg {1:09:03pm > Done generating toolpaths after 3 sec.}
+msg {1:09:34pm > Toolpaths created on Z = 4.089 only}
+msg {1:11:09pm > Range top at 22.225, bottom at 22.225}
+msg {1:13:05pm > Range top at 24.003, bottom at 22.225}
+msg {1:13:06pm > Range top at 24.003, bottom at 22.225}
+msg {1:13:30pm > Range top at 24.003, bottom at 22.225}
+msg {1:14:04pm > Total of 16 curves selected, 16 new.}
+msg {1:14:07pm > Total of 176 curves selected, 160 new.}
+msg {1:15:02pm > Total of 80 curves selected, 80 new.}
+msg {1:15:13pm > Total of 176 curves selected, 176 new.}
+msg {1:15:23pm > 	Part fill style:	One contour /  rasters}
+msg {1:15:23pm > 	Part interior style:	Solid - normal}
+msg {1:15:23pm > 	Contour width:	0.3556}
+msg {1:15:23pm > 	Part raster width:	0.3556}
+msg {1:15:26pm > Done generating toolpaths after 3 sec.}
+msg {1:17:48pm > Saved job:  Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/W0000364 fMRI housing/ssys_W0000364-01-Boardcase/W0000364-01-Boardcase.sjb}
+erating supports}
+msg {1:17:11pm > Done generating supports after 23 sec.}
+msg {1:17:12pm > Done writing boundary curves after 5 sec.}
+msg {1:17:12pm > 	Part fill style:	One contour /  rasters}
+msg {1:17:12pm > 	Part interior style:	Solid - normal}
+msg {1:17:12pm > 	Contour width:	0.3556}
+msg {1:17:12pm > 	Part raster width:	0.3556}
+msg {1:17:28pm > Done generating toolpaths after 20 sec.}
+msg {1:17:37pm > 	Est. build time:	19 hr 54 min }
+msg {1:17:37pm > 	Model material:	171.063 cm³}
+msg {1:17:37pm > 	Support material:	131.110 cm³}
+msg {1:17:37pm > Done writing CMB file after 11 sec.}
+msg {1:17:37pm > Job Summary}
+msg {1:17:37pm > 	Full job path:	Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/W0000364 fMRI housing/ssys_W0000364-01-Boardcase/W0000364-01-Boardcase.sjb}
+msg {1:17:37pm > 	Toolpath file name:	W0000364-01-Boardcase.cmb}
+msg {1:17:37pm > 	Modeler:		Fortus 360mc Small}
+msg {1:17:37pm > 	Est. build time:	19 hr 54 min }
+msg {1:17:37pm > 	Model material:	171.063 cm³,	T12,	PC-ABS}
+msg {1:17:37pm > 	Support material:	131.110 cm³,	T12,	SR20 support}
+msg {1:17:37pm > 	Slice height:	0.1778}
+msg {1:17:37pm > 	Part fill style:	One contour /  rasters}
+msg {1:17:37pm > 	Part interior style:	Solid - normal}
+msg {1:17:37pm > 	Visible surface style:	Normal}
+msg {1:17:37pm > 	Support style:	Sparse}
+msg {1:17:37pm > 	Contour width:	0.3556}
+msg {1:17:37pm > 	Number of contours:	1.4224}
+msg {1:17:37pm > 	Part interior contours:	0.4064}
+msg {1:17:37pm > 	Part raster width:	0.3556}
+msg {1:17:37pm > 	Application:	Insight 10.1, Build version: 4582}
+msg {1:17:37pm > Saved job:  Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/W0000364 fMRI housing/ssys_W0000364-01-Boardcase/W0000364-01-Boardcase.sjb,  approximate build time 19 hr 54 min }
+session {11/12 5:09:12pm > Norbert closed job.}

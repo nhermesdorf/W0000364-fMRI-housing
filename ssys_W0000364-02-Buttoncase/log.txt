@@ -1,0 +1,69 @@
+session {11/12 5:09:20pm > Norbert opened job C:/ProgramData/Stratasys/FDMControlCenter/10.1/jobs/Norbert5/Default.sjb.  Insight 10.1 (4582).}
+msg {5:09:21pm > Read 17452 facets in 0:00 from "Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/W0000364 fMRI housing/W0000364-02-Buttoncase.STL"}
+msg {5:09:21pm > STL comment: solid W0000364-02-Buttoncase}
+msg {5:09:21pm > 22 free surface edges left in model (object is not closed).}
+msg {5:09:21pm > Bounding box of this STL X, Y, Z:}
+msg {5:09:21pm >       min = (0.0000, 0.0000, 0.0000)}
+msg {5:09:21pm >       max = (239.5000, 25.0000, 142.5000)}
+msg {5:09:21pm > Done loading STL file after 1 sec.}
+msg {5:09:56pm > 	Slice height:	0.1778}
+msg {5:09:57pm > Done slicing after 1 sec.}
+msg {5:10:26pm > 	Part fill style:	One contour /  rasters}
+msg {5:10:26pm > 	Part interior style:	Solid - normal}
+msg {5:10:26pm > 	Contour width:	0.3556}
+msg {5:10:26pm > 	Part raster width:	0.3556}
+msg {5:10:36pm > Done generating toolpaths after 10 sec.}
+msg {5:11:11pm > Range top at 13.157, bottom at 13.157}
+msg {5:11:30pm > Range top at 17.958, bottom at 13.157}
+msg {5:11:32pm > Range top at 17.958, bottom at 13.157}
+msg {5:12:01pm > Total of 10 curves selected, 10 new.}
+msg {5:12:02pm > Total of 20 curves selected, 10 new.}
+msg {5:12:06pm > Total of 188 curves selected, 168 new.}
+msg {5:12:09pm > Total of 198 curves selected, 10 new.}
+msg {5:12:11pm > Total of 208 curves selected, 10 new.}
+msg {5:12:20pm > 	Part fill style:	One contour /  rasters}
+msg {5:12:20pm > 	Part interior style:	Solid - normal}
+msg {5:12:20pm > 	Contour width:	0.3556}
+msg {5:12:20pm > 	Part raster width:	0.3556}
+msg {5:12:24pm > Done generating toolpaths after 4 sec.}
+msg {5:12:56pm > Range top at 20.091, bottom at 20.091}
+msg {5:13:10pm > Range top at 25.070, bottom at 20.091}
+msg {5:13:11pm > Range top at 25.070, bottom at 20.091}
+msg {5:13:29pm > Total of 232 curves selected, 232 new.}
+msg {5:13:34pm > 	Part fill style:	One contour /  rasters}
+msg {5:13:34pm > 	Part interior style:	Solid - normal}
+msg {5:13:34pm > 	Contour width:	0.3556}
+msg {5:13:34pm > 	Part raster width:	0.3556}
+msg {5:13:37pm > Done generating toolpaths after 2 sec.}
+msg {5:16:06pm > Saved job:  Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/W0000364 fMRI housing/ssys_W0000364-02-Buttoncase/W0000364-02-Buttoncase.sjb}
+ating supports}
+msg {5:15:16pm > Done generating supports after 6 sec.}
+msg {5:15:17pm > Done writing boundary curves.}
+msg {5:15:17pm > 	Part fill style:	One contour /  rasters}
+msg {5:15:17pm > 	Part interior style:	Solid - normal}
+msg {5:15:17pm > 	Contour width:	0.3556}
+msg {5:15:17pm > 	Part raster width:	0.3556}
+msg {5:15:34pm > Done generating toolpaths after 16 sec.}
+msg {5:15:39pm > 	Est. build time:	13 hr 7 min }
+msg {5:15:39pm > 	Model material:	102.631 cm³}
+msg {5:15:39pm > 	Support material:	101.877 cm³}
+msg {5:15:39pm > Done writing CMB file after 4 sec.}
+msg {5:15:39pm > Job Summary}
+msg {5:15:39pm > 	Full job path:	Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/W0000364 fMRI housing/ssys_W0000364-02-Buttoncase/W0000364-02-Buttoncase.sjb}
+msg {5:15:39pm > 	Toolpath file name:	W0000364-02-Buttoncase.cmb}
+msg {5:15:39pm > 	Modeler:		Fortus 360mc Small}
+msg {5:15:39pm > 	Est. build time:	13 hr 7 min }
+msg {5:15:39pm > 	Model material:	102.631 cm³,	T12,	PC-ABS}
+msg {5:15:39pm > 	Support material:	101.877 cm³,	T12,	SR20 support}
+msg {5:15:39pm > 	Slice height:	0.1778}
+msg {5:15:39pm > 	Part fill style:	One contour /  rasters}
+msg {5:15:39pm > 	Part interior style:	Solid - normal}
+msg {5:15:39pm > 	Visible surface style:	Normal}
+msg {5:15:39pm > 	Support style:	Sparse}
+msg {5:15:39pm > 	Contour width:	0.3556}
+msg {5:15:39pm > 	Number of contours:	1.4224}
+msg {5:15:39pm > 	Part interior contours:	0.4064}
+msg {5:15:39pm > 	Part raster width:	0.3556}
+msg {5:15:39pm > 	Application:	Insight 10.1, Build version: 4582}
+msg {5:15:39pm > Saved job:  Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/W0000364 fMRI housing/ssys_W0000364-02-Buttoncase/W0000364-02-Buttoncase.sjb,  approximate build time 13 hr 7 min }
+session {11/12 5:35:45pm > Norbert closed job.}
