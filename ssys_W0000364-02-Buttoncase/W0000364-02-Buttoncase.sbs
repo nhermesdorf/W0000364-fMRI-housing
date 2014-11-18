@@ -1,4 +1,4 @@
-# Build style -  November 12, 2014 17:16:06 ;
+# Build style -  November 13, 2014 09:23:17 ;
 # Written by Insight
 # Product version 10.1
 # Build version 4582
@@ -99,8 +99,8 @@ setVersionVar bypassAutoSeamPlacement 	{false} 1.0;
 setVersionVar bypassTitanTimeEst 	{false} 1.0;
 setVersionVar cbmaxtime 	{60} 1.0;
 setVersionVar chainContours 	{false} 1.0;
-setVersionVar currentLayerNo 	{100} 1.0;
-setVersionVar currentLayerZ 	{0.658000} 1.0;
+setVersionVar currentLayerNo 	{147} 1.0;
+setVersionVar currentLayerZ 	{0.987000} 1.0;
 setVersionVar custom:1:CCAirGap 	{0.0} 1.0;
 setVersionVar custom:1:CRAirGap 	{0.000000} 1.0;
 setVersionVar custom:1:addSparseContour 	{true} 1.0;
@@ -266,11 +266,11 @@ setVersionVar partSurfaceArea 	{145.511810} 1.0;
 setVersionVar partVolume 	{5.099749} 1.0;
 setVersionVar reqSliceBottom 	{0.000000} 1.0;
 setVersionVar reqSliceTop 	{10.000000} 1.0;
-setVersionVar savedViews 	{{jobSaveCurrent {0.129080 0.000000 0.000000 0.000000 0.000000 0.129080 0.000000 0.000000 0.000000 0.000000 0.129080 0.000000  -0.489233 -0.210973 -0.061872 1.000000}}} 1.0;
+setVersionVar savedViews 	{{jobSaveCurrent {0.393922 0.000000 0.000000 0.000000 0.000000 0.393922 0.000000 0.000000 0.000000 0.000000 0.393922 0.000000  -2.061403 -1.723915 -0.188819 1.000000}}} 1.0;
 setVersionVar seamPlacement 	{standard} 1.0;
 setVersionVar seamRefPoint 	{ 0.0 0.0 } 1.0;
 setVersionVar sequenceControlFlag 	{true} 1.0;
-setVersionVar shadeToolpath 	{false} 1.0;
+setVersionVar shadeToolpath 	{true} 1.0;
 setVersionVar sliceAutoClose 	{true} 1.0;
 setVersionVar sliceBottomZ 	{-0.035000} 1.0;
 setVersionVar sliceFilterTolerance 	{0.0004} 1.0;

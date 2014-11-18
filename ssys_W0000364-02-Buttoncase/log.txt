@@ -67,3 +67,39 @@ msg {5:15:39pm > 	Part raster width:	0.3556}
 msg {5:15:39pm > 	Application:	Insight 10.1, Build version: 4582}
 msg {5:15:39pm > Saved job:  Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/W0000364 fMRI housing/ssys_W0000364-02-Buttoncase/W0000364-02-Buttoncase.sjb,  approximate build time 13 hr 7 min }
 session {11/12 5:35:45pm > Norbert closed job.}
+session {11/13 9:20:27am > Norbert opened job Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/W0000364-fMRI-housing/ssys_W0000364-02-Buttoncase/W0000364-02-Buttoncase.sjb.  Insight 10.1 (4582).}
+msg {9:20:27am > Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/W0000364-fMRI-housing/ssys_W0000364-02-Buttoncase/W0000364-02-Buttoncase.sbs loaded...}
+msg {9:20:29am > Done reading boundary curves after 2 sec.}
+error {9:22:07am > Please generate toolpaths for the part.}
+msg {9:22:19am > Saved job:  Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/W0000364-fMRI-housing/ssys_W0000364-02-Buttoncase/W0000364-02-Buttoncase.sjb}
+msg {9:22:19am > 	Part fill style:	One contour /  rasters}
+msg {9:22:19am > 	Part interior style:	Solid - normal}
+msg {9:22:19am > 	Contour width:	0.3556}
+msg {9:22:19am > 	Part raster width:	0.3556}
+msg {9:22:35am > Done generating toolpaths after 20 sec.}
+msg {9:22:36am > CMB moved to envelope center.}
+msg {9:22:40am > Toolpath Information}
+msg {9:22:40am > 	Est. build time:	13 hr 7 min }
+msg {9:22:40am > 	Model material:	102.631 cm³}
+msg {9:22:40am > 	Support material:	101.877 cm³}
+msg {9:22:40am > Done writing CMB file after 8 sec.}
+msg {9:22:40am > Job Summary}
+msg {9:22:40am > 	Full job path:	Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/W0000364-fMRI-housing/ssys_W0000364-02-Buttoncase/W0000364-02-Buttoncase.sjb}
+msg {9:22:40am > 	Toolpath file name:	W0000364-02-Buttoncase.cmb}
+msg {9:22:40am > 	Modeler:		Fortus 360mc Small}
+msg {9:22:40am > 	Est. build time:	13 hr 7 min }
+msg {9:22:40am > 	Model material:	102.631 cm³,	T12,	PC-ABS}
+msg {9:22:40am > 	Support material:	101.877 cm³,	T12,	SR20 support}
+msg {9:22:40am > 	Slice height:	0.1778}
+msg {9:22:40am > 	Part fill style:	One contour /  rasters}
+msg {9:22:40am > 	Part interior style:	Solid - normal}
+msg {9:22:40am > 	Visible surface style:	Normal}
+msg {9:22:40am > 	Support style:	Sparse}
+msg {9:22:40am > 	Contour width:	0.5080}
+msg {9:22:40am > 	Number of contours:	6.3500}
+msg {9:22:40am > 	Part interior contours:	0.4064}
+msg {9:22:40am > 	Part raster width:	0.3556}
+msg {9:22:40am > 	Application:	Insight 10.1, Build version: 4582}
+msg {9:22:40am > Saved job:  Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/W0000364-fMRI-housing/ssys_W0000364-02-Buttoncase/W0000364-02-Buttoncase.sjb,  approximate build time 13 hr 7 min }
+msg {9:23:17am > Saved job:  Z:/DCC-003-TD/Nhermesdorf/GIT_TSG/W0000364-fMRI-housing/ssys_W0000364-02-Buttoncase/W0000364-02-Buttoncase.sjb}
+session {11/13 9:24:11am > Norbert closed job.}
